@@ -1,0 +1,13 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+.logo{
+  width: 30px;
+  height: 30px;
+}
+
+.w-100 {
+  margin: 10%;
+  height: 40vh;
+}
